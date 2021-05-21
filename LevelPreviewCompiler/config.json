@@ -1,0 +1,1158 @@
+{
+    "themes": {
+        "goldleaf": {
+            "background1": "f0e0b8",
+            "background2": "f0d8a0",
+            "banner1": "f08010",
+            "banner2": "f09828"
+        },
+        "crystal": {
+            "background1": "d0a8f0",
+            "background2": "c898e8",
+            "banner1": "7828b8",
+            "banner2": "8830c8"
+        },
+        "island": {
+            "background1": "c8d8f8",
+            "background2": "b8d0f8",
+            "banner1": "4070d8",
+            "banner2": "5080e0"
+        },
+        "boneyard": {
+            "background1": "d8b8c8",
+            "background2": "d8a8c0",
+            "banner1": "601038",
+            "banner2": "701840"
+        },
+        "glacier": {
+            "background1": "b8c0d8",
+            "background2": "a8b8c8",
+            "banner1": "2068b0",
+            "banner2": "3070c0"
+        },
+        "freezeflame": {
+            "background1": "c0b8c8",
+            "background2": "b8b0c0",
+            "banner1": "5060a8",
+            "banner2": "5868b8"
+        },
+        "space": {
+            "background1": "e0d8e8",
+            "background2": "d0d0e0",
+            "banner1": "383040",
+            "banner2": "403848"
+        },
+        "mountain": {
+            "background1": "f0e8e0",
+            "background2": "e8e0e0",
+            "banner1": "706860",
+            "banner2": "807870"
+        },
+        "runbow": {
+            "background1": "f0e0e0",
+            "background2": "e8d0d0",
+            "banner1": "e82838",
+            "banner2": "f03848"
+        },
+        "pinksky": {
+            "background1": "f0e0e8",
+            "background2": "f0d8e0",
+            "banner1": "e02868",
+            "banner2": "e83878"
+        },
+        "storm": {
+            "background1": "98b8c0",
+            "background2": "90b0c0",
+            "banner1": "82038",
+            "banner2": "102848"
+        },
+        "evilsand": {
+            "background1": "e0d0c8",
+            "background2": "e0c8c0",
+            "banner1": "a84030",
+            "banner2": "b85038"
+        },
+        "lava": {
+            "background1": "f8d0c8",
+            "background2": "f0c8c8",
+            "banner1": "c82000",
+            "banner2": "d03008"
+        },
+        "bluetower": {
+            "background1": "d8c8f8",
+            "background2": "d0c0f8",
+            "banner1": "5038b0",
+            "banner2": "6040c0"
+        },
+        "pipetower": {
+            "background1": "a0d0a8",
+            "background2": "90c890",
+            "banner1": "187820",
+            "banner2": "208028"
+        },
+        "hivetower": {
+            "background1": "f8e8b0",
+            "background2": "f8e080",
+            "banner1": "e89000",
+            "banner2": "f0a010"
+        },
+        "bootower": {
+            "background1": "c8b8e8",
+            "background2": "c0a8e8",
+            "banner1": "383050",
+            "banner2": "403850"
+        },
+        "icetower": {
+            "background1": "c8d0e8",
+            "background2": "c0c8e8",
+            "banner1": "102860",
+            "banner2": "183068"
+        },
+        "lavatower": {
+            "background1": "d0a8a0",
+            "background2": "d0a090",
+            "banner1": "281018",
+            "banner2": "381820"
+        },
+        "browncastle": {
+            "background1": "f0d0b8",
+            "background2": "f0c8a8",
+            "banner1": "905020",
+            "banner2": "a06028"
+        },
+        "airship": {
+            "background1": "f0d0a8",
+            "background2": "f0c8a0",
+            "banner1": "905820",
+            "banner2": "986028"
+        },
+        "armoury": {
+            "background1": "e8d8f0",
+            "background2": "e0d0e8",
+            "banner1": "583850",
+            "banner2": "604058"
+        },
+        "schooner": {
+            "background1": "c8c8e8",
+            "background2": "c0c0e8",
+            "banner1": "202038",
+            "banner2": "282840"
+        },
+        "freezeflamefortress": {
+            "background1": "c8c0d8",
+            "background2": "c0b8d8",
+            "banner1": "581868",
+            "banner2": "602078"
+        },
+        "spaceship": {
+            "background1": "c0c0d8",
+            "background2": "b8b8d0",
+            "banner1": "080830",
+            "banner2": "101038"
+        },
+        "stormcastle": {
+            "background1": "a0b0c0",
+            "background2": "90a8c0",
+            "banner1": "102838",
+            "banner2": "183040"
+        },
+        "finalcastle": {
+            "background1": "c890a0",
+            "background2": "c88898",
+            "banner1": "401818",
+            "banner2": "501818"
+        },
+        "ghosthouse": {
+            "background1": "b0b0f8",
+            "background2": "a8a0f8",
+            "banner1": "5838c8",
+            "banner2": "6048d0"
+        },
+        "toadhouse1": {
+            "background1": "f0d8d8",
+            "background2": "f0d0d0",
+            "banner1": "c81818",
+            "banner2": "d02828"
+        },
+        "toadhouse2": {
+            "background1": "d8e8d8",
+            "background2": "c0e8c0",
+            "banner1": "28c028",
+            "banner2": "30d030"
+        },
+        "toadhouse3": {
+            "background1": "e0d8e8",
+            "background2": "e0d0e8",
+            "banner1": "8838d0",
+            "banner2": "9840d8"
+        },
+        "bgchooser": {
+            "background1": "d8e8f0",
+            "background2": "c8e0e8",
+            "banner1": "3890d0",
+            "banner2": "40a0d8"
+        }
+    },
+    "levels": {
+        "1-1": {
+            "theme": "goldleaf",
+            "world": 1,
+            "number": 1,
+            "title": "World 1-1",
+            "name": "Everbrown Meadow",
+            "preview": "1-1.png",
+            "bottom": "W1.png"
+        },
+        "1-2": {
+            "theme": "goldleaf",
+            "world": 1,
+            "number": 2,
+            "title": "World \\r1-2",
+            "name": "Chopwood Cavern",
+            "preview": "1-2.png",
+            "bottom": "W1.png"
+        },
+        "1-3": {
+            "theme": "goldleaf",
+            "world": 1,
+            "number": 3,
+            "title": "World 1-3",
+            "name": "Snailicorn Grove",
+            "preview": "1-3.png",
+            "bottom": "W1.png"
+        },
+        "1-4": {
+            "theme": "goldleaf",
+            "world": 1,
+            "number": 4,
+            "title": "World 1-4",
+            "name": "Wiggler Woods",
+            "preview": "1-4.png",
+            "bottom": "W1.png"
+        },
+        "1-5": {
+            "theme": "goldleaf",
+            "world": 1,
+            "number": 5,
+            "title": "World 1-5",
+            "name": "Unsteady Gorge",
+            "preview": "1-5.png",
+            "bottom": "W1.png"
+        },
+        "1-10": {
+            "theme": "goldleaf",
+            "world": 1,
+            "number": 9,
+            "title": "World 1-A",
+            "name": "Goldbush Pond",
+            "preview": "1-10.png",
+            "bottom": "W1.png"
+        },
+        "1-15": {
+            "theme": "bluetower",
+            "world": 1,
+            "number": 13,
+            "title": "World \\r1-[redtower]",
+            "name": "Ropeblast Tower",
+            "preview": "1-15.png",
+            "bottom": "W1.png"
+        },
+        "1-24": {
+            "theme": "browncastle",
+            "world": 1,
+            "number": 14,
+            "title": "World 1-[bowser]",
+            "name": "Leafpile Castle",
+            "preview": "1-24.png",
+            "bottom": "W1.png"
+        },
+        "1-40": {
+            "theme": "goldleaf",
+            "world": 1,
+            "number": 16,
+            "title": "World 1-[cannon]",
+            "preview": "1-40.png",
+            "bottom": "W1.png"
+        },
+        "1-51": {
+            "theme": "toadhouse1",
+            "world": 1,
+            "number": 17,
+            "name": "Item House",
+            "preview": "10-1.png",
+            "bottom": "W1.png"
+        },
+        "1-52": {
+            "theme": "toadhouse2",
+            "world": 1,
+            "number": 18,
+            "name": "1-UP House",
+            "preview": "10-2.png",
+            "bottom": "W1.png"
+        },
+        "1-53": {
+            "theme": "toadhouse3",
+            "world": 1,
+            "number": 19,
+            "name": "Mega House",
+            "preview": "10-3.png",
+            "bottom": "W1.png"
+        },
+        "1-54": {
+            "theme": "bgchooser",
+            "world": 1,
+            "number": 23,
+            "name": "Special House",
+            "preview": "10-4.png",
+            "bottom": "W1.png"
+        },
+        "2-1": {
+            "theme": "crystal",
+            "world": 2,
+            "number": 1,
+            "title": "World 2-1",
+            "name": "Crystalswoop Grotto",
+            "preview": "2-1.png",
+            "bottom": "W2.png"
+        },
+        "2-2": {
+            "theme": "crystal",
+            "world": 2,
+            "number": 2,
+            "title": "World 2-2",
+            "name": "Pipebreak Cave",
+            "preview": "2-2.png",
+            "bottom": "W2.png"
+        },
+        "2-3": {
+            "theme": "crystal",
+            "world": 2,
+            "number": 3,
+            "title": "World \\r2-3",
+            "name": "Switching Sewer",
+            "preview": "2-3.png",
+            "bottom": "W2.png"
+        },
+        "2-4": {
+            "theme": "crystal",
+            "world": 2,
+            "number": 4,
+            "title": "World \\r2-4",
+            "name": "Wagon Way",
+            "preview": "2-4.png",
+            "bottom": "W2.png"
+        },
+        "2-5": {
+            "theme": "crystal",
+            "world": 2,
+            "number": 5,
+            "title": "World 2-5",
+            "name": "Tightrope Ravine",
+            "preview": "2-5.png",
+            "bottom": "W2.png"
+        },
+        "2-6": {
+            "theme": "crystal",
+            "world": 2,
+            "number": 6,
+            "title": "World 2-6",
+            "name": "Gushing Culvert",
+            "preview": "2-6.png",
+            "bottom": "W2.png"
+        },
+        "2-10": {
+            "theme": "crystal",
+            "world": 2,
+            "number": 9,
+            "title": "World \\r2-A",
+            "name": "Hydroskip Drain",
+            "preview": "2-10.png",
+            "bottom": "W2.png"
+        },
+        "2-15": {
+            "theme": "pipetower",
+            "world": 2,
+            "number": 13,
+            "title": "World 2-[tower]",
+            "name": "Fliptube Tower",
+            "preview": "2-15.png",
+            "bottom": "W2.png"
+        },
+        "2-24": {
+            "theme": "airship",
+            "world": 2,
+            "number": 14,
+            "title": "World 2-[bowser]",
+            "name": "Flameburst Flotilla",
+            "preview": "2-24.png",
+            "bottom": "W2.png"
+        },
+        "2-40": {
+            "theme": "crystal",
+            "world": 2,
+            "number": 16,
+            "title": "World 2-[cannon]",
+            "preview": "2-40.png",
+            "bottom": "W2.png"
+        },
+        "2-51": {
+            "theme": "toadhouse1",
+            "world": 2,
+            "number": 17,
+            "name": "Item House",
+            "preview": "10-1.png",
+            "bottom": "W2.png"
+        },
+        "2-52": {
+            "theme": "toadhouse2",
+            "world": 2,
+            "number": 18,
+            "name": "1-UP House",
+            "preview": "10-2.png",
+            "bottom": "W2.png"
+        },
+        "2-53": {
+            "theme": "toadhouse3",
+            "world": 2,
+            "number": 19,
+            "name": "Mega House",
+            "preview": "10-3.png",
+            "bottom": "W2.png"
+        },
+        "3-1": {
+            "theme": "island",
+            "world": 3,
+            "number": 1,
+            "title": "World 3-1",
+            "name": "Sandy Shore",
+            "preview": "3-1.png",
+            "bottom": "W3.png"
+        },
+        "3-2": {
+            "theme": "island",
+            "world": 3,
+            "number": 2,
+            "title": "World \\r3-2",
+            "name": "Palmthorn Beach",
+            "preview": "3-2.png",
+            "bottom": "W3.png"
+        },
+        "3-3": {
+            "theme": "island",
+            "world": 3,
+            "number": 3,
+            "title": "World 3-3",
+            "name": "Honeycomb Thicket",
+            "preview": "3-3.png",
+            "bottom": "W3.png"
+        },
+        "3-10": {
+            "theme": "island",
+            "world": 3,
+            "number": 9,
+            "title": "World 3-A",
+            "name": "Unagi Borough",
+            "preview": "3-10.png",
+            "bottom": "W3.png"
+        },
+        "3-11": {
+            "theme": "island",
+            "world": 3,
+            "number": 10,
+            "title": "World 3-B",
+            "name": "Dorrie Den",
+            "preview": "3-11.png",
+            "bottom": "W3.png"
+        },
+        "3-12": {
+            "theme": "island",
+            "world": 3,
+            "number": 11,
+            "title": "World 3-C",
+            "name": "Skeeter Coast",
+            "preview": "3-12.png",
+            "bottom": "W3.png"
+        },
+        "3-15": {
+            "theme": "hivetower",
+            "world": 3,
+            "number": 13,
+            "title": "World 3-[tower]",
+            "name": "Hivetree Tower",
+            "preview": "3-15.png",
+            "bottom": "W3.png"
+        },
+        "3-20": {
+            "theme": "ghosthouse",
+            "world": 3,
+            "number": 12,
+            "title": "World \\r3-[gh]",
+            "name": "The House of Blocks",
+            "preview": "3-20.png",
+            "bottom": "W3.png"
+        },
+        "3-24": {
+            "theme": "armoury",
+            "world": 3,
+            "number": 14,
+            "title": "World 3-[bowser]",
+            "name": "Overgrown Armoury",
+            "preview": "3-24.png",
+            "bottom": "W3.png"
+        },
+        "3-40": {
+            "theme": "island",
+            "world": 3,
+            "number": 16,
+            "title": "World 3-[cannon]",
+            "preview": "3-40.png",
+            "bottom": "W3.png"
+        },
+        "3-51": {
+            "theme": "toadhouse1",
+            "world": 3,
+            "number": 17,
+            "name": "Item House",
+            "preview": "10-1.png",
+            "bottom": "W3.png"
+        },
+        "3-52": {
+            "theme": "toadhouse2",
+            "world": 3,
+            "number": 18,
+            "name": "1-UP House",
+            "preview": "10-2.png",
+            "bottom": "W3.png"
+        },
+        "3-53": {
+            "theme": "toadhouse3",
+            "world": 3,
+            "number": 19,
+            "name": "Mega House",
+            "preview": "10-3.png",
+            "bottom": "W3.png"
+        },
+        "4-1": {
+            "theme": "boneyard",
+            "world": 4,
+            "number": 1,
+            "title": "World \\r4-1",
+            "name": "Pumpkin Thornhill",
+            "preview": "4-1.png",
+            "bottom": "W4.png"
+        },
+        "4-2": {
+            "theme": "boneyard",
+            "world": 4,
+            "number": 2,
+            "title": "World 4-2",
+            "name": "Broozer Sward",
+            "preview": "4-2.png",
+            "bottom": "W4.png"
+        },
+        "4-3": {
+            "theme": "boneyard",
+            "world": 4,
+            "number": 3,
+            "title": "World 4-3",
+            "name": "Ectoplasm Hollow",
+            "preview": "4-3.png",
+            "bottom": "W4.png"
+        },
+        "4-4": {
+            "theme": "boneyard",
+            "world": 4,
+            "number": 4,
+            "title": "World 4-4",
+            "name": "Bone Marrow Road",
+            "preview": "4-4.png",
+            "bottom": "W4.png"
+        },
+        "4-5": {
+            "theme": "boneyard",
+            "world": 4,
+            "number": 5,
+            "title": "World 4-5",
+            "name": "Arachnid Charnel",
+            "preview": "4-5.png",
+            "bottom": "W4.png"
+        },
+        "4-6": {
+            "theme": "boneyard",
+            "world": 4,
+            "number": 6,
+            "title": "World 4-6",
+            "name": "Grimoire Grounds",
+            "preview": "4-6.png",
+            "bottom": "W4.png"
+        },
+        "4-10": {
+            "theme": "boneyard",
+            "world": 4,
+            "number": 9,
+            "title": "World 4-A",
+            "name": "Flimsy Gulch",
+            "preview": "4-10.png",
+            "bottom": "W4.png"
+        },
+        "4-15": {
+            "theme": "bootower",
+            "world": 4,
+            "number": 13,
+            "title": "World 4-[tower]",
+            "name": "Spiritful Steeple",
+            "preview": "4-15.png",
+            "bottom": "W4.png"
+        },
+        "4-20": {
+            "theme": "ghosthouse",
+            "world": 4,
+            "number": 12,
+            "title": "World \\r4-[gh]",
+            "name": "The House of Doors",
+            "preview": "4-20.png",
+            "bottom": "W4.png"
+        },
+        "4-24": {
+            "theme": "schooner",
+            "world": 4,
+            "number": 14,
+            "title": "World 4-[bowser]",
+            "name": "Derelict Schooner",
+            "preview": "4-24.png",
+            "bottom": "W4.png"
+        },
+        "4-40": {
+            "theme": "boneyard",
+            "world": 4,
+            "number": 16,
+            "title": "World 4-[cannon]",
+            "preview": "4-40.png",
+            "bottom": "W4.png"
+        },
+        "4-51": {
+            "theme": "toadhouse1",
+            "world": 4,
+            "number": 17,
+            "name": "Item House",
+            "preview": "10-1.png",
+            "bottom": "W4.png"
+        },
+        "4-52": {
+            "theme": "toadhouse2",
+            "world": 4,
+            "number": 18,
+            "name": "1-UP House",
+            "preview": "10-2.png",
+            "bottom": "W4.png"
+        },
+        "4-53": {
+            "theme": "toadhouse3",
+            "world": 4,
+            "number": 19,
+            "name": "Mega House",
+            "preview": "10-3.png",
+            "bottom": "W4.png"
+        },
+        "5-1": {
+            "theme": "glacier",
+            "world": 5,
+            "number": 1,
+            "title": "World 5-1",
+            "name": "Snowfield Plateau",
+            "preview": "5-1.png",
+            "bottom": "W5.png"
+        },
+        "5-2": {
+            "theme": "glacier",
+            "world": 5,
+            "number": 2,
+            "title": "World \\r5-2",
+            "name": "Everfrost Hole",
+            "preview": "5-2.png",
+            "bottom": "W5.png"
+        },
+        "5-3": {
+            "theme": "glacier",
+            "world": 5,
+            "number": 3,
+            "title": "World 5-3",
+            "name": "Snowstorm Ridge",
+            "preview": "5-3.png",
+            "bottom": "W5.png"
+        },
+        "5-4": {
+            "theme": "freezeflame",
+            "world": 5,
+            "number": 4,
+            "title": "World 5-4",
+            "name": "Icesmolder Lake",
+            "preview": "5-4.png",
+            "bottom": "W5.png"
+        },
+        "5-10": {
+            "theme": "glacier",
+            "world": 5,
+            "number": 9,
+            "title": "World 5-A",
+            "name": "Blizzard Bluffs",
+            "preview": "5-10.png",
+            "bottom": "W5.png"
+        },
+        "5-11": {
+            "theme": "glacier",
+            "world": 5,
+            "number": 10,
+            "title": "World \\r5-B",
+            "name": "Precarious Byway",
+            "preview": "5-11.png",
+            "bottom": "W5.png"
+        },
+        "5-12": {
+            "theme": "freezeflame",
+            "world": 5,
+            "number": 11,
+            "title": "World 5-C",
+            "name": "Candelabrum Cavern",
+            "preview": "5-12.png",
+            "bottom": "W5.png"
+        },
+        "5-15": {
+            "theme": "icetower",
+            "world": 5,
+            "number": 13,
+            "title": "World 5-[tower]",
+            "name": "Icecrack Citadel",
+            "preview": "5-15.png",
+            "bottom": "W5.png"
+        },
+        "5-20": {
+            "theme": "ghosthouse",
+            "world": 5,
+            "number": 12,
+            "title": "World \\r5-[gh]",
+            "name": "The House of Stairs",
+            "preview": "5-20.png",
+            "bottom": "W5.png"
+        },
+        "5-24": {
+            "theme": "freezeflamefortress",
+            "world": 5,
+            "number": 14,
+            "title": "World 5-[bowser]",
+            "name": "Freezeflame Fortress",
+            "preview": "5-24.png",
+            "bottom": "W5.png"
+        },
+        "5-40": {
+            "theme": "glacier",
+            "world": 5,
+            "number": 16,
+            "title": "World 5-[cannon]",
+            "preview": "5-40.png",
+            "bottom": "W5.png"
+        },
+        "5-51": {
+            "theme": "toadhouse1",
+            "world": 5,
+            "number": 17,
+            "name": "Item House",
+            "preview": "10-1.png",
+            "bottom": "W5.png"
+        },
+        "5-52": {
+            "theme": "toadhouse2",
+            "world": 5,
+            "number": 18,
+            "name": "1-UP House",
+            "preview": "10-2.png",
+            "bottom": "W5.png"
+        },
+        "5-53": {
+            "theme": "toadhouse3",
+            "world": 5,
+            "number": 19,
+            "name": "Mega House",
+            "preview": "10-3.png",
+            "bottom": "W5.png"
+        },
+        "6-1": {
+            "theme": "space",
+            "world": 6,
+            "number": 1,
+            "title": "World 6-1",
+            "name": "Highhop Pass",
+            "preview": "6-1.png",
+            "bottom": "W6.png"
+        },
+        "6-2": {
+            "theme": "mountain",
+            "world": 6,
+            "number": 2,
+            "title": "World 6-2",
+            "name": "Mt. Skydrop",
+            "preview": "6-2.png",
+            "bottom": "W6.png"
+        },
+        "6-3": {
+            "theme": "space",
+            "world": 6,
+            "number": 3,
+            "title": "World 6-3",
+            "name": "Meteor Lane",
+            "preview": "6-3.png",
+            "bottom": "W6.png"
+        },
+        "6-4": {
+            "theme": "space",
+            "world": 6,
+            "number": 4,
+            "title": "World 6-4",
+            "name": "Napalm Nebula",
+            "preview": "6-4.png",
+            "bottom": "W6.png"
+        },
+        "6-5": {
+            "theme": "runbow",
+            "world": 6,
+            "number": 5,
+            "title": "World 6-5",
+            "name": "Runbow Road",
+            "preview": "6-5.png",
+            "bottom": "W6.png"
+        },
+        "6-6": {
+            "theme": "mountain",
+            "world": 6,
+            "number": 6,
+            "title": "World 6-6",
+            "name": "Sledge Summits",
+            "preview": "6-6.png",
+            "bottom": "W6.png"
+        },
+        "6-7": {
+            "theme": "space",
+            "world": 6,
+            "number": 7,
+            "title": "World 6-7",
+            "name": "Freeleap Galaxy",
+            "preview": "6-7.png",
+            "bottom": "W6.png"
+        },
+        "6-10": {
+            "theme": "space",
+            "world": 6,
+            "number": 9,
+            "title": "World 6-A",
+            "name": "Asteroid Valley",
+            "preview": "6-10.png",
+            "bottom": "W6.png"
+        },
+        "6-11": {
+            "theme": "space",
+            "world": 6,
+            "number": 10,
+            "title": "World 6-B",
+            "name": "Shape Zone",
+            "preview": "6-11.png",
+            "bottom": "W6.png"
+        },
+        "6-15": {
+            "theme": "bluetower",
+            "world": 6,
+            "number": 13,
+            "title": "World 6-[tower]",
+            "name": "Shockbelt Spire",
+            "preview": "6-15.png",
+            "bottom": "W6.png"
+        },
+        "6-24": {
+            "theme": "spaceship",
+            "world": 6,
+            "number": 14,
+            "title": "World 6-[bowser]",
+            "name": "Thornspire Doomship",
+            "preview": "6-24.png",
+            "bottom": "W6.png"
+        },
+        "6-51": {
+            "theme": "toadhouse1",
+            "world": 6,
+            "number": 17,
+            "name": "Item House",
+            "preview": "10-1.png",
+            "bottom": "W6.png"
+        },
+        "6-52": {
+            "theme": "toadhouse2",
+            "world": 6,
+            "number": 18,
+            "name": "1-UP House",
+            "preview": "10-2.png",
+            "bottom": "W6.png"
+        },
+        "6-53": {
+            "theme": "toadhouse3",
+            "world": 6,
+            "number": 19,
+            "name": "Mega House",
+            "preview": "10-3.png",
+            "bottom": "W6.png"
+        },
+        "7-1": {
+            "theme": "pinksky",
+            "world": 7,
+            "number": 1,
+            "title": "World 7-1",
+            "name": "Lavender Skybridge",
+            "preview": "7-1.png",
+            "bottom": "W7.png"
+        },
+        "7-2": {
+            "theme": "pinksky",
+            "world": 7,
+            "number": 2,
+            "title": "World 7-2",
+            "name": "Muncher Romp",
+            "preview": "7-2.png",
+            "bottom": "W7.png"
+        },
+        "7-3": {
+            "theme": "pinksky",
+            "world": 7,
+            "number": 3,
+            "title": "World 7-3",
+            "name": "Tipsaw Trench",
+            "preview": "7-3.png",
+            "bottom": "W7.png"
+        },
+        "7-4": {
+            "theme": "storm",
+            "world": 7,
+            "number": 4,
+            "title": "World \\r7-4",
+            "name": "Cloudbolt Chasm",
+            "preview": "7-4.png",
+            "bottom": "W7.png"
+        },
+        "7-5": {
+            "theme": "pinksky",
+            "world": 7,
+            "number": 5,
+            "title": "World \\r7-5",
+            "name": "Gigantic Gardens",
+            "preview": "7-5.png",
+            "bottom": "W7.png"
+        },
+        "7-6": {
+            "theme": "pinksky",
+            "world": 7,
+            "number": 6,
+            "title": "World \\r7-6",
+            "name": "Spiny Swings",
+            "preview": "7-6.png",
+            "bottom": "W7.png"
+        },
+        "7-7": {
+            "theme": "pinksky",
+            "world": 7,
+            "number": 7,
+            "title": "World 7-7",
+            "name": "Ballistic Breach",
+            "preview": "7-7.png",
+            "bottom": "W7.png"
+        },
+        "7-10": {
+            "theme": "pinksky",
+            "world": 7,
+            "number": 9,
+            "title": "World 7-A",
+            "name": "Gusty Gap",
+            "preview": "7-10.png",
+            "bottom": "W7.png"
+        },
+        "7-15": {
+            "theme": "pinksky",
+            "world": 7,
+            "number": 13,
+            "title": "World 7-[tower]",
+            "name": "Skewerspring Tower",
+            "preview": "7-15.png",
+            "bottom": "W7.png"
+        },
+        "7-20": {
+            "theme": "ghosthouse",
+            "world": 7,
+            "number": 12,
+            "title": "World \\r7-[gh]",
+            "name": "The House of Bogus",
+            "preview": "7-20.png",
+            "bottom": "W7.png"
+        },
+        "7-24": {
+            "theme": "stormcastle",
+            "world": 7,
+            "number": 14,
+            "title": "World 7-[bowser]",
+            "name": "Stormeye Stronghold",
+            "preview": "7-24.png",
+            "bottom": "W7.png"
+        },
+        "7-51": {
+            "theme": "toadhouse1",
+            "world": 7,
+            "number": 17,
+            "name": "Item House",
+            "preview": "10-1.png",
+            "bottom": "W7.png"
+        },
+        "7-52": {
+            "theme": "toadhouse2",
+            "world": 7,
+            "number": 18,
+            "name": "1-UP House",
+            "preview": "10-2.png",
+            "bottom": "W7.png"
+        },
+        "7-53": {
+            "theme": "toadhouse3",
+            "world": 7,
+            "number": 19,
+            "name": "Mega House",
+            "preview": "10-3.png",
+            "bottom": "W7.png"
+        },
+        "8-1": {
+            "theme": "evilsand",
+            "world": 8,
+            "number": 1,
+            "title": "World 8-1",
+            "name": "Boomblast Badlands",
+            "preview": "8-1.png",
+            "bottom": "W8.png"
+        },
+        "8-2": {
+            "theme": "evilsand",
+            "world": 8,
+            "number": 2,
+            "title": "World 8-2",
+            "name": "Sandstream Tunnel",
+            "preview": "8-2.png",
+            "bottom": "W8.png"
+        },
+        "8-3": {
+            "theme": "evilsand",
+            "world": 8,
+            "number": 3,
+            "title": "World 8-3",
+            "name": "Wicked Gale Vale",
+            "preview": "8-3.png",
+            "bottom": "W8.png"
+        },
+        "8-4": {
+            "theme": "evilsand",
+            "world": 8,
+            "number": 4,
+            "title": "World 8-4",
+            "name": "Skyglare Dryland",
+            "preview": "8-4.png",
+            "bottom": "W8.png"
+        },
+        "8-5": {
+            "theme": "lava",
+            "world": 8,
+            "number": 5,
+            "title": "World 8-5",
+            "name": "Basalt Bay",
+            "preview": "8-5.png",
+            "bottom": "W8.png"
+        },
+        "8-6": {
+            "theme": "lava",
+            "world": 8,
+            "number": 6,
+            "title": "World 8-6",
+            "name": "Bombkey Banks",
+            "preview": "8-6.png",
+            "bottom": "W8.png"
+        },
+        "8-7": {
+            "theme": "lava",
+            "world": 8,
+            "number": 7,
+            "title": "World 8-7",
+            "name": "Slitherthorn Grotto",
+            "preview": "8-7.png",
+            "bottom": "W8.png"
+        },
+        "8-8": {
+            "theme": "lava",
+            "world": 8,
+            "number": 8,
+            "title": "World 8-8",
+            "name": "Firehoop Inferno",
+            "preview": "8-8.png",
+            "bottom": "W8.png"
+        },
+        "8-10": {
+            "theme": "lava",
+            "world": 8,
+            "number": 9,
+            "title": "World 8-A",
+            "name": "Magmatrack Getaway",
+            "preview": "8-10.png",
+            "bottom": "W8.png"
+        },
+        "8-15": {
+            "theme": "lavatower",
+            "world": 8,
+            "number": 13,
+            "title": "World 8-[tower]",
+            "name": "Lavalit Tower",
+            "preview": "8-15.png",
+            "bottom": "W8.png"
+        },
+        "8-24": {
+            "theme": "lava",
+            "world": 8,
+            "number": 14,
+            "title": "World 8-[bowser]",
+            "name": "Ironclad Battalion",
+            "preview": "8-24.png",
+            "bottom": "W8.png"
+        },
+        "8-25": {
+            "theme": "finalcastle",
+            "world": 8,
+            "number": 22,
+            "title": "World 8-[finalcastle]",
+            "name": "Bowser's Castle",
+            "preview": "8-25.png",
+            "bottom": "W8.png"
+        },
+        "8-51": {
+            "theme": "toadhouse1",
+            "world": 8,
+            "number": 17,
+            "name": "Item House",
+            "preview": "10-1.png",
+            "bottom": "W8.png"
+        },
+        "8-52": {
+            "theme": "toadhouse2",
+            "world": 8,
+            "number": 18,
+            "name": "1-UP House",
+            "preview": "10-2.png",
+            "bottom": "W8.png"
+        },
+        "8-53": {
+            "theme": "toadhouse3",
+            "world": 8,
+            "number": 19,
+            "name": "Mega House",
+            "preview": "10-3.png",
+            "bottom": "W8.png"
+        }
+    }
+}
