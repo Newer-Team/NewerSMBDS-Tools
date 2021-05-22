@@ -26,7 +26,7 @@ Since there are a lot of shared palettes among the in-game image files, you can'
     - "out-enpg-png": PNG renders of the enpgs, so you can see how the enpg-ification affected the image quality
     - "out-enpg-lz": the enpg file agains, but lz-compressed (this is what is ultimately inserted into the rom)
 
-## Setup
+## Setup and Usage
 
 - Install Pillow, PyQt5, libimagequant and ndspy with pip.
 - Install ImageMagick.
