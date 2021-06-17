@@ -18,7 +18,7 @@ from PyQt5 import QtCore, QtGui; Qt = QtCore.Qt
 import ndspy.lz10
 import ndspy.rom
 
-VERSION = 'Ver. 1.14'
+VERSION = 'Ver. 1.15'
 
 
 
